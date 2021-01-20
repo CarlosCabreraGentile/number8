@@ -1,0 +1,17 @@
+.productList {}
+
+.imageContainer {}
+
+.name {}
+
+.price {}
+
+.viewDetailsBtn {}
+
+.toast {
+    height: 150px;
+    width: 100%;
+    background-color: greenyellow;
+    z-index: 9999999;
+    margin-top: 0;
+}
